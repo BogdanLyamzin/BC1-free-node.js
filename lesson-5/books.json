@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Eloquent JavaScript, Third Edition",
+    "author": "Marijn Haverbeke"
+  },
+  {
+    "title": "Practical Modern JavaScript",
+    "author": "Nicolas Bevacqua"
+  },
+  {
+    "title": "Understanding ECMAScript 6",
+    "author": "Nicholas C. Zakas"
+  },
+  {
+    "title": "Speaking JavaScript",
+    "author": "Axel Rauschmayer"
+  },
+  {
+    "title": "Learning JavaScript Design Patterns",
+    "author": "Addy Osmani"
+  },
+  {
+    "title": "You Don't Know JS Yet",
+    "author": "Kyle Simpson"
+  },
+  {
+    "title": "Pro Git",
+    "author": "Scott Chacon and Ben Straub"
+  },
+  {
+    "title": "Rethinking Productivity in Software Engineering",
+    "author": "Caitlin Sadowski, Thomas Zimmermann"
+  }
+]
