@@ -1,0 +1,13 @@
+.wrapper {
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    text-decoration: none;
+    color: red;
+    font-weight: bold;
+    font-size: 18px;
+}

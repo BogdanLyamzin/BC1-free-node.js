@@ -1,0 +1,19 @@
+
+.menu {
+    list-style: none;
+    display: flex;
+}
+
+.link {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: red;
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.link.active {
+    background-color: #000;
+}
